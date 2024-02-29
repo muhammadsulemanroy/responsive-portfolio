@@ -1,6 +1,6 @@
 [build]
   command = "npm run build"
-  publish = "websitereact/build"
+  publish = "/build"
   base = "websitereact"
 
 [[redirects]]
